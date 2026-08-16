@@ -6,7 +6,6 @@ Repositόrio com as entregas e estudos da disciplina de **Programac̦ao Orientad
 
 Aqui estao disponίveis os cόdigos e atividades desenvolvidas ao longo da disciplina.
 
-```
 ## 📝 Atividades
 
 | Entrega | Descric̦ao | Status |
