@@ -2,11 +2,11 @@
 
 Repositόrio com as entregas e estudos da disciplina de **Programac̦ao Orientada a Objetos** usando **Java**.
 
-## 📚 Sobre
+##  Sobre
 
 Aqui estao disponίveis os cόdigos e atividades desenvolvidas ao longo da disciplina.
 
-## 📝 Atividades
+##  Atividades
 
 | Entrega | Descric̦ao | Status |
 |---------|-----------|--------|
@@ -14,17 +14,17 @@ Aqui estao disponίveis os cόdigos e atividades desenvolvidas ao longo da disci
 
 > 💡 Esta tabela serά atualizada conforme novas entregas forem adicionadas.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Java** - Linguagem principal
 - **Git/GitHub** - Controle de versao
 
-## 📖 Recursos
+##  Recursos
 
 - [Documentac̦ao Oficial do Java](https://docs.oracle.com/en/java/)
 - [Java Tutorial - Oracle](https://docs.oracle.com/javase/tutorial/)
 
-## 👨‍💻 Autor
+##  Autor
 
 **Rafael Pallo**  
 Estudante de Anάlise e Desenvolvimento de Sistemas
