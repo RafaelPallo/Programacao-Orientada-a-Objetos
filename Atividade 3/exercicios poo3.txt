@@ -1,0 +1,13 @@
+1-Quais as principais caracteristicas do java que são vantagens em detrimento de outra tecnologias
+-comunidade bastante engajada
+-vasta documentação disponível
+-orientação a objetos
+-complexo conjunto de API's
+-independente de plataforma (software e hardware), ou seja, está presente nos principais sistemas operacionais.
+-segurança (encapsulamento)
+
+2-O que e JVM e qual a sua correlação com o bytecode
+JVM  ou Maquina Virtual Java
+É responsável pela independencia da liguagem Java, funcinando como uma camada de abstração entre o código e o sistema operacional.
+Ela interpreta o bytecode, que é o código intermediário gerado pelo compilador Java, e o converte em instruções específicas para o sistema operacional e hardware.
+A JVM também implementa recursos como o Garbage Collector, que gerncia automaticamente a memória ao liberar objetos não utilizados (lixo de memória)
