@@ -11,6 +11,9 @@ Aqui estao disponίveis os cόdigos e atividades desenvolvidas ao longo da disci
 | Entrega | Descric̦ao | Status |
 |---------|-----------|--------|
 | Atividade 02 | Classes, atributos e métodos | ✅ Concluίdo |
+| Atividade 03 | Construtores| ✅ Concluίdo |
+| Atividade 04| Getters e Setters | ✅ Concluίdo |
+| Atividade 05 | associações, agregações,  composição e heranças | ✅ Concluίdo |
 
 > 💡 Esta tabela serά atualizada conforme novas entregas forem adicionadas.
 
