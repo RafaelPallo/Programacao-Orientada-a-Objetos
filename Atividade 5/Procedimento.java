@@ -2,6 +2,8 @@ public abstract class Procedimento {
     private String data;
     private String descritivo;
 
+    public Procedimento(){}
+    
     public Procedimento(String data, String descritivo) {
         this.data = data;
         this.descritivo = descritivo;
