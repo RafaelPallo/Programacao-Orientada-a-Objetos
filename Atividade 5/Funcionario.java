@@ -3,6 +3,8 @@ public abstract class Funcionario {
     private String telefone;
     private String senha;
 
+    public Funcionario(){}
+    
     public void acessar() {
         System.out.println("[Funcionario] " + nome + " acessou o sistema.");
     }
